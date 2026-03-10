@@ -1,0 +1,2 @@
+# residential-multi-storey-building-safety-assessment-and-ranking-system
+A web-based Decision Support System to rank multi-storey building safety. Using Python and Streamlit, it aggregates structural, fire, and compliance indicators into a weighted score. Features a Draft-to-Published workflow for transparent reporting, aiding regulators and consumers in making safer, data-driven housing decisions.
